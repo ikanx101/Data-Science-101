@@ -14,3 +14,6 @@ bidang *data science*.
 
 Materi dan kurikulum sedang dipersiapkan. InsyaAllah dalam waktu dekat
 akan di-*publish* di *repository* ini.
+
+Sembari menunggu kabar baik, ada sedikit pre-test yang sudah disediakan
+untuk rekan-rekan. Silakan buka folder `Materi Minggu 0`.
