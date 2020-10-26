@@ -59,4 +59,6 @@ cukup agar bisa dimengerti.
 Batas waktu pengumpulan adalah sebelum dilakukan kelas online di minggu
 I.
 
+Silakan kumpulkan melalui _email_ yang telah diinformasikan sebelumnya.
+
 Selamat mengerjakan.
