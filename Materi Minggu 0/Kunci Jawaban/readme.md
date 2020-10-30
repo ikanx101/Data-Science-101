@@ -266,3 +266,11 @@ Siapa *market leader*?
 Siapa yang memiliki *sales value* terbesar pada `9.9`?
 
 <img src="readme_files/figure-gfm/unnamed-chunk-11-1.png" width="672" />
+
+## Jawaban III
+
+Gimana strategi untuk *brand* kamu?
+
+<img src="readme_files/figure-gfm/unnamed-chunk-12-1.png" width="672" />
+
+Ada yang bisa kita simpulkan?
