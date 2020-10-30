@@ -1,7 +1,7 @@
 Readme First
 ================
-Ikang
-21 Oktober 2020
+Ikang Fadhli
+30 Oktober 2020
 
 # *Welcome\!*
 
@@ -12,8 +12,13 @@ bidang *data science*.
 
 ## Materi dan Kurikulum
 
-Materi dan kurikulum sedang dipersiapkan. InsyaAllah dalam waktu dekat
-akan di-*publish* di *repository* ini.
+Terima kasih atas partisipasinya mengerjakan *pretest* dan tugas di
+`Materi Minggu 0`, jawaban kalian dan kunci jawaban sudah dimasukkan ke
+dalam *folder* tersebut.
 
-Sembari menunggu kabar baik, ada sedikit pre-test yang sudah disediakan
-untuk rekan-rekan. Silakan buka folder `Materi Minggu 0`.
+Pada minggu I, saya akan membawakan dua buah materi yakni:
+
+1.  *Intro to data science*.
+2.  *Digital data literacy*.
+
+Materi akan saya *upload* mendekati *live session* nanti.
