@@ -1,0 +1,54 @@
+---
+title: "Materi Minggu 0"
+author: "Ikang"
+date: "21 Oktober 2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/Data-Science-101/Materi Minggu 0")
+```
+
+# _Pre-Test_
+
+_Dear All_,
+
+Kali ini kami akan memberikan _pre-test_ kepada kalian. Tujuan dari _pre-test_ ini untuk mengetahui sudah sejauh mana _knowledge_ dan _skill_ yang kalian miliki. Hal ini akan sangat membantu kami dalam membuat dan menentukan materi / kurikulum yang akan diberikan.
+
+Ada dua jenis _pre-test_ yang akan kalian kerjakan, yakni:
+
+1. Soal _multiple choice_ yang kalian bisa kerjakan di [_link_](https://forms.gle/1HQpW9bDY6nThpfm9) berikut. Kalian tidak perlu _Googling_ dan tidak usah memakai kalkulator. Cukup gunakan kemampuan diri sendiri saja _yah_.
+1. Membuat analisa dan narasi dari _dataset_ yang telah diberikan.
+
+---
+
+## Penjelasan _Pre-Test_ Poin `2`
+
+### _Dataset_
+
+_Dataset pre test_ ini bernama `raw data.csv`, yakni berisi data hasil penjualan produk di kategori `minyak zaitun` di salah satu _marketplace_ ternama di Indonesia pada rentang waktu tertentu.
+
+_Dataset_ terdiri dari `5` variabel, yakni:
+
+1. `nama` produk.
+1. `harga` yang terpampang di _marketplace_.
+1. Nama `seller`.
+1. Qty `terjual` mulai dari pertama kali produk _listed_ di _marketplace_ sampai tanggal pengambilan data.
+1. `tanggal_ambil_data`, waktu data diambil.
+
+### Apa yang harus dilakukan?
+
+Kalian harus menjawab `3` pertanyaan berikut ini:
+
+1. Pada rentang waktu tersebut, siapa yang menjadi _market leader_?
+1. _Brand_ minyak mana yang memiliki _sales value_ terbesar saat __big sale__ `9.9`?
+1. Bayangkan kalian bekerja di salah satu _brand_ minyak tersebut, dari data ini hal apa yang bisa Anda sarankan ke tim _sales / marketing_?
+
+### Cara Pengerjaan dan Pengumpulan
+
+Kalian diberikan kebebasan untuk melakukan analisa apa saja dengan _tools_ apa saja. Hasil laporan dikumpulkan dalam format bebas (boleh `pdf`, `docx`, `pptx`, atau `xlsx`), yang penting berikan narasi yang cukup agar bisa dimengerti.
+
+Batas waktu pengumpulan adalah sebelum dilakukan kelas online di minggu I.
+
+Selamat mengerjakan.
