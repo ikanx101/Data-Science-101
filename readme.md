@@ -1,7 +1,7 @@
-Readme First
+Read Me
 ================
 Ikang Fadhli
-30 Oktober 2020
+3 November 2020
 
 # *Welcome\!*
 
@@ -10,15 +10,9 @@ Science 101`, suatu komunitas yang kami (alumni) coba inisiasi sebagai
 wadah *grooming* rekan-rekan mahasiswa Matematika agar siap pakai di
 bidang *data science*.
 
-## Materi dan Kurikulum
+## *Update* Materi dan Kurikulum\!
 
-Terima kasih atas partisipasinya mengerjakan *pretest* dan tugas di
-`Materi Minggu 0`, jawaban kalian dan kunci jawaban sudah dimasukkan ke
-dalam *folder* tersebut.
+Pada Sabtu ini, Kang Chiky akan memberikan materi.
 
-Pada minggu I, saya akan membawakan dua buah materi yakni:
-
-1.  *Intro to data science*.
-2.  *Digital data literacy*.
-
-Materi akan saya *upload* mendekati *live session* nanti.
+Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu? Saya
+akan *upload* segera di folder `Materi Minggu 2`.

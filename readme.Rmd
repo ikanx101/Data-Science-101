@@ -1,7 +1,7 @@
 ---
 title: "Read Me"
 author: "Ikang Fadhli"
-date: "2 November 2020"
+date: "3 November 2020"
 output: 
   github_document:
   pandoc_args: --webtex
@@ -9,7 +9,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("~/Data-Science-101")
+setwd("~/Documents/Data-Science-101")
 ```
 
 # _Welcome!_
