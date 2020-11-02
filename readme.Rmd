@@ -1,8 +1,10 @@
 ---
-title: "Readme First"
+title: "Read Me"
 author: "Ikang Fadhli"
-date: "30 Oktober 2020"
-output: github_document
+date: "2 November 2020"
+output: 
+  github_document:
+  pandoc_args: --webtex
 ---
 
 ```{r setup, include=FALSE}
@@ -15,13 +17,8 @@ setwd("~/Data-Science-101")
 _Dear_ para matematikawan muda, selamat datang di _repository_ `Data Science 101`, suatu komunitas yang kami (alumni) coba inisiasi sebagai wadah _grooming_ rekan-rekan mahasiswa Matematika agar siap pakai di bidang _data science_.
 
 
-## Materi dan Kurikulum
+## _Update_ Materi dan Kurikulum!
 
-Terima kasih atas partisipasinya mengerjakan _pretest_ dan tugas di `Materi Minggu 0`, jawaban kalian dan kunci jawaban sudah dimasukkan ke dalam _folder_ tersebut.
+Pada Sabtu ini, Kang Chiky akan memberikan materi.
 
-Pada minggu I, saya akan membawakan dua buah materi yakni:
-
-1. _Intro to data science_.
-1. _Digital data literacy_.
-
-Materi akan saya _upload_ mendekati _live session_ nanti.
+Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu? Saya akan _upload_ segera di folder `Materi Minggu 2`.
