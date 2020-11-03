@@ -1,7 +1,7 @@
 Read Me
 ================
 Ikang Fadhli
-3 November 2020
+4 November 2020
 
 # *Welcome\!*
 
@@ -14,5 +14,5 @@ bidang *data science*.
 
 Pada Sabtu ini, Kang Chiky akan memberikan materi.
 
-Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu? Saya
-akan *upload* segera di folder `Materi Minggu 2`.
+Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu?
+Datanya sudah ada di folder `Materi Minggu 2`.

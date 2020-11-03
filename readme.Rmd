@@ -1,7 +1,7 @@
 ---
 title: "Read Me"
 author: "Ikang Fadhli"
-date: "3 November 2020"
+date: "4 November 2020"
 output: 
   github_document:
   pandoc_args: --webtex
@@ -9,7 +9,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("~/Documents/Data-Science-101")
+setwd("~/Data-Science-101")
 ```
 
 # _Welcome!_
@@ -21,4 +21,4 @@ _Dear_ para matematikawan muda, selamat datang di _repository_ `Data Science 101
 
 Pada Sabtu ini, Kang Chiky akan memberikan materi.
 
-Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu? Saya akan _upload_ segera di folder `Materi Minggu 2`.
+Sementara itu, saya akan tetap memberikan PR terkait data. Apa itu? Datanya sudah ada di folder `Materi Minggu 2`.
