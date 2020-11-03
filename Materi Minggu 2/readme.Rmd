@@ -35,6 +35,7 @@ Data terdiri dari `4` _excel files_ yang memuat informasi sebagai berikut:
 1. Tipe konsumen (member atau non member).
 1. Barang yang dibelanjakan per konsumen (dilihat dari `transaction id`).
 
+Data bisa diambil di [_link_](https://drive.google.com/drive/folders/1BIQjDgSCL2GFFyPZJD14sdr1pZb_My4D?usp=sharing) berikut!
 ---
 
 # Tugas Kalian

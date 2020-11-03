@@ -32,7 +32,7 @@ berikut:
 3.  Barang yang dibelanjakan per konsumen (dilihat dari `transaction
     id`).
 
------
+## Data bisa diambil di [*link*](https://drive.google.com/drive/folders/1BIQjDgSCL2GFFyPZJD14sdr1pZb_My4D?usp=sharing) berikut\!
 
 # Tugas Kalian
 
