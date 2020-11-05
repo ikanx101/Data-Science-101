@@ -1,0 +1,27 @@
+ 
+---
+title: "Cara Berbersih Data"
+author: "Ikang Fadhli"
+date: "5 November 2020"
+output: 
+  github_document:
+    pandoc_args: --webtex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list=ls())
+```
+
+# _Dear All_,
+
+Sepertinya tugas kali ini juga membuat pusing pada saat bagian _data preparation_ dan _data cleaningnya_ _yah_.
+
+Nah kira-kira seperti apa cara merapikannya?
+
+Ide dasarnya adalah dengan mengambil dua buat dataset dari raw data, yakni:
+
+1. Data nomor transaksi, tanggal, dan kategori pelanggan.
+1. Data detail barang yang dibeli.
+
+
