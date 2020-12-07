@@ -1996,3 +1996,13 @@ kombinasi produk terbaik yang menghasilkan *profit* terbesar.
 
 *Budget* dihitung dari variabel `burn_3m` dan *profit* dihitung dari
 variabel `cost_benefit`.
+
+## *Submission*
+
+Silakan submit jawaban kamu dengan format `.csv` berisi `1` kolom
+kombinasi `product code`.
+
+Contoh *file submission* ada di dalam folder ini.
+
+Kirim file tersebut ke *link* [telegram berikut](https://t.me/Ikanx).
+Jangan lupa sertakan nama tim kamu *yah*.
