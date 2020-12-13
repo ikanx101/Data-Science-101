@@ -2016,4 +2016,4 @@ Jangan lupa sertakan nama tim kamu *yah*.
 | nama\_tim     | banyak\_produk |    profit |      cost |
 | :------------ | -------------: | --------: | --------: |
 | Tim Supercupu |           1597 | 205709716 | 199999566 |
-| Ikanx         |           1594 | 188702933 | 199093623 |
+| Ikanx         |           1374 | 196329881 | 196518561 |
