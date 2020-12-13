@@ -2006,3 +2006,14 @@ Contoh *file submission* ada di dalam folder ini.
 
 Kirim file tersebut ke *link* [telegram berikut](https://t.me/Ikanx).
 Jangan lupa sertakan nama tim kamu *yah*.
+
+-----
+
+# *LEADERBOARD*
+
+*Update* per 13 Desember 2020:
+
+| nama\_tim     | banyak\_produk |    profit |      cost |
+| :------------ | -------------: | --------: | --------: |
+| Tim Supercupu |           1597 | 205709716 | 199999566 |
+| Ikanx         |           1717 | 182615589 | 195712188 |
