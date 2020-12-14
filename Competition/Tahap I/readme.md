@@ -2011,7 +2011,7 @@ Jangan lupa sertakan nama tim kamu *yah*.
 
 # *LEADERBOARD*
 
-*Update* per 13 Desember 2020:
+*Update* per 14 Desember 2020:
 
 | nama\_tim     | banyak\_produk |    profit |      cost |
 | :------------ | -------------: | --------: | --------: |
