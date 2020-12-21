@@ -2011,12 +2011,11 @@ Jangan lupa sertakan nama tim kamu *yah*.
 
 # *LEADERBOARD*
 
-*Update* per 17 Desember 2020:
+*Update* per 21 Desember 2020:
 
-| nama\_tim                     | banyak\_produk |    profit |      cost |
-| :---------------------------- | -------------: | --------: | --------: |
-| Tim Medioker                  |           1596 | 205709826 | 199999997 |
-| Ikanx pake linear programming |           1599 | 205709825 | 199999992 |
-| Tim Libra                     |           1594 | 205709824 | 199999991 |
-| Tim Supercupu                 |           1597 | 205709716 | 199999566 |
-| Ikanx pake Monte Carlo        |           1374 | 196329881 | 196518561 |
+| nama\_tim     | banyak\_produk |    profit |      cost |
+| :------------ | -------------: | --------: | --------: |
+| Pudja-an-Abil |           1597 | 205709826 | 199999997 |
+| Tim Medioker  |           1596 | 205709826 | 199999997 |
+| Tim Libra     |           1594 | 205709824 | 199999991 |
+| Tim Supercupu |           1597 | 205709716 | 199999566 |
