@@ -2011,11 +2011,12 @@ Jangan lupa sertakan nama tim kamu *yah*.
 
 # *LEADERBOARD*
 
-*Update* per 21 Desember 2020:
+*Update* per 22 Desember 2020:
 
 | nama\_tim     | banyak\_produk |    profit |      cost |
 | :------------ | -------------: | --------: | --------: |
 | Pudja-an-Abil |           1597 | 205709826 | 199999997 |
 | Tim Medioker  |           1596 | 205709826 | 199999997 |
 | Tim Libra     |           1594 | 205709824 | 199999991 |
+| Tim AJA       |           1600 | 205709807 | 199999923 |
 | Tim Supercupu |           1597 | 205709716 | 199999566 |
