@@ -1,0 +1,84 @@
+---
+title: "Kompetisi Tahap I"
+output: 
+  github_document:
+    pandoc_args: --webtex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/Documents/Data-Science-101/Competition/Tahap I")
+rm(list=ls())
+library(readxl)
+library(dplyr)
+library(tidyr)
+```
+
+## _The game is on!_
+
+Menggunakan _provided data_ dari salah satu _marketplace_, kita akan mencoba memilih produk apa saja yang perlu diberikan _budget_ promosi sehingga menghasilkan _profit_ maksimal. Tentunya dengan _budget constraint_ tertentu.
+
+## _Dataset_
+
+Data kompetisi ini terdiri dari daftar beberapa produk yang memiliki _price elasticity_ baik.
+
+```{r,echo=FALSE}
+data = read_excel("20201207 Product list.xlsx")
+knitr::kable(head(data,10),"html",caption = "Contoh 10 data teratas")
+```
+
+## _Problem Statement_
+
+Jika Anda memiliki _budget_ promosi sebesar `Rp 200.000.000`, pilihlah kombinasi produk terbaik yang menghasilkan _profit_ terbesar.
+
+_Budget_ dihitung dari variabel `burn_3m` dan _profit_ dihitung dari variabel `cost_benefit`.
+
+## _Submission_
+
+Silakan submit jawaban kamu dengan format `.csv` berisi `1` kolom kombinasi `product code`.
+
+Contoh _file submission_ ada di dalam folder ini.
+
+Kirim file tersebut ke _link_ [telegram berikut](https://t.me/Ikanx). Jangan lupa sertakan nama tim kamu _yah_.
+
+---
+
+# _LEADERBOARD_
+
+_Update_ per 26 Desember 2020:
+
+```{r,echo=FALSE}
+path = "~/Documents/Data-Science-101/Competition/Tahap I/Submission"
+files = c("Pudja-an-Abil.csv",
+          "Tim Supercupu.csv",
+          "Tim Medioker.csv",
+          "Tim AJA.csv",
+          "Tim Untuk.csv")
+
+leaderboard = data.frame(
+  nama_tim = "a",
+  banyak_produk = 1,
+  profit = 1,
+  cost = 1
+)
+
+for(i in 1:length(files)){
+  submission = 
+    read.csv(paste(path,files[i],sep = "/")) %>% 
+    janitor::clean_names()
+  kombin = submission$product_code
+  hasil = data %>% filter(`product code` %in% kombin)
+  n = length(hasil$`product code`)
+  profit = sum(hasil$cost_benefit)
+  cost = sum(hasil$burn_3m)
+  nama_tim = gsub(".csv","",files[i])
+  leaderboard[i,] = c(nama_tim,n,profit,cost)
+}
+
+leaderboard %>% 
+  mutate(banyak_produk = as.numeric(banyak_produk),
+         profit = as.numeric(profit),
+         cost = as.numeric(cost)) %>% 
+  arrange(desc(profit)) %>% 
+  knitr::kable()
+```
