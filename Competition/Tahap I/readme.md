@@ -2016,7 +2016,7 @@ Jangan lupa sertakan nama tim kamu *yah*.
 | nama\_tim     | banyak\_produk |    profit |      cost |
 | :------------ | -------------: | --------: | --------: |
 | Pudja-an-Abil |           1597 | 205709826 | 199999997 |
-| Tim Medioker  |           1596 | 205709826 | 199999997 |
 | Tim AJA       |           1597 | 205709826 | 199999997 |
+| Tim Medioker  |           1598 | 205709826 | 199999997 |
 | Tim Untuk     |           1601 | 205709826 | 199999997 |
-| Tim Supercupu |           1597 | 205709716 | 199999566 |
+| Tim Supercupu |           1599 | 205709826 | 199999996 |

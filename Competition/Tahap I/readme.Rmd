@@ -7,6 +7,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(scipen = 999)
 setwd("~/Documents/Data-Science-101/Competition/Tahap I")
 rm(list=ls())
 library(readxl)
@@ -79,6 +80,6 @@ leaderboard %>%
   mutate(banyak_produk = as.numeric(banyak_produk),
          profit = as.numeric(profit),
          cost = as.numeric(cost)) %>% 
-  arrange(desc(profit)) %>% 
+  arrange(desc(profit),banyak_produk) %>% 
   knitr::kable()
 ```
